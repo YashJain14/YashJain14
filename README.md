@@ -3,7 +3,7 @@ I am **[Yash Jain](https://yashjain14.github.io/)**, an undergraduate student fr
 
 - Business and Computer Science (Double Bachelors)
 - AI Intern @ [TUV SUD](https://www.tuvsud.com)
-- 4x Hackathon mentions
+- 4x Hackathon awards
 - President @ [Google DSC NTU](https://gdsc.community.dev/nanyang-technological-university/)
 
 ## What I'm Working On
