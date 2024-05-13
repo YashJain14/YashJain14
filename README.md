@@ -2,6 +2,7 @@
 I am **[Yash Jain](https://yashjain14.github.io/)**, an undergraduate student from [NTU, Singapore](https://www.ntu.edu.sg/).
 
 - Business and Computer Science (Double Bachelors)
+- Research Intern @ [MMLab (S-Lab)](https://www.mmlab-ntu.com) (Summers'24)
 - AI Intern @ [TUV SUD](https://www.tuvsud.com) (Summers'23)
 - 4x Hackathon awards
 - President @ [Google DSC NTU](https://gdsc.community.dev/nanyang-technological-university/)
