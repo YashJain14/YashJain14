@@ -1,5 +1,5 @@
 
-I am **[Yash Jain](https://yashjain14.github.io/)**, an undergraduate student from [NTU, Singapore](https://www.ntu.edu.sg/).
+I am **[Yash Jain](https://yashjain14.github.io/)**, an undergraduate student at [NTU, Singapore](https://www.ntu.edu.sg/).
 
 - Computer Science and Business (Double Bachelors)
 - Research Intern @ [MMLab (S-Lab)](https://www.mmlab-ntu.com) (Summers'24)
