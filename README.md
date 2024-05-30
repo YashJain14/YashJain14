@@ -10,6 +10,6 @@ I am **[Yash Jain](https://yashjain14.github.io/)**, an undergraduate student at
 
 ## What I'm Working On
 
-- **[KamaGPT](https://www.kamagpt.in/) (Exit)**: Chatbot for sex education targeting youth in the Asia (Backed by NTU)
+- **[KamaGPT](https://www.kamagpt.in/) **: Multilingual Chatbot for sex education (22k users in 3 months) (Backed by NTU)
 - **[StoryLine AI](https://www.storylineai.in/)**: Text-to-Video Generator for Creators and Educators (Backed by NTU)
 - **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: Diving into tech, vlogs, and higher education in SG. 
