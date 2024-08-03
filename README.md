@@ -5,7 +5,7 @@ I am **[Yash Jain](https://yashjain14.github.io/)**, an undergraduate student at
 - Research Intern @ [MMLab (S-Lab)](https://www.mmlab-ntu.com) (Summers'24)
 - AI Intern @ [TUV SUD](https://www.tuvsud.com) (Summers'23)
 - Data Analyst Intern @ Deepak Industries (Summers'21)
-- 4x Hackathon awards
+- 5x Hackathon awards
 - President @ [Google DSC NTU](https://gdsc.community.dev/nanyang-technological-university/)
 
 ## Projects
