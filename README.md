@@ -9,7 +9,7 @@ I am **[Yash Jain](https://yashjain14.github.io/)**, an undergraduate student at
 - President @ [Google DSC NTU](https://gdsc.community.dev/nanyang-technological-university/)
 
 ## Projects
-- **[Weaver](https://github.com/YashJain14)**: AI-powered production line for Textile Design samples.
+- **[Weaver](https://github.com/YashJain14)**: AI-powered production line for Textile Design samples. (Backed by NTUitive)
 - **[KamaGPT](https://www.kamagpt.in/)**: Multilingual Chatbot for sex education (22k users in 3 months) (Backed by NTU)
 - **[StoryLine AI](https://www.storylineai.in/)**: Script-to-video Generator (Consistent audio narration with video) (Backed by NTU)
 - **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: Diving into tech, vlogs, and higher education in SG. 
