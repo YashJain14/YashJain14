@@ -9,7 +9,7 @@ I am **[Yash Jain](https://yashjain14.github.io/)**, an undergraduate student at
 
 ## What I'm working on
 - **[Weaver](https://weaverai.in/)**: AI-powered production line for Textile Manufacturing. (Backed by [NTUitive](https://www.ntuitive.sg/))
-- **[SOPPU](https://github.com/YashJain14)**: Scalable One PEFT per User.
+- **[SOPPU](https://github.com/YashJain14/SOPPU)**: Scalable One PEFT per User.
 - **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: Tech, vlogs, and higher education in Singapore. 
 
 ## Previous works
