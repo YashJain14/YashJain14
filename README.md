@@ -6,6 +6,7 @@ I am **[Yash Jain](https://yashjain14.github.io/)**, an undergraduate student at
 - AI Intern @ [TUV SUD](https://www.tuvsud.com) (Summers'23)
 - 4x Hackathon awards
 - Lead @ [Google DSC NTU](https://gdsc.community.dev/nanyang-technological-university/)
+- Chairperson @ [NTU Open Source Society](https://github.com/ntuoss)
 
 ## What I'm working on
 - **[Weaver](https://weaverai.in/)**: AI-powered production line for Textile Manufacturing. (Backed by [NTUitive](https://www.ntuitive.sg/))
