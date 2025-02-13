@@ -10,10 +10,11 @@ I am **[Yash Jain](https://yashjain14.github.io/)**, an undergraduate student at
 - Chairperson @ [NTU Open Source Society](https://github.com/ntuoss)
 
 ## What I'm working on
+- **[OpenContext](https://github.com/YashJain14)**: Open deep research that searches the web and local files to generate reports and PowerPoint presentations.
 - **[Weaver](https://weaverai.in/)**: AI-powered production line for Textile Manufacturing. (Backed by [NTUitive](https://www.ntuitive.sg/))
-- **[SOPPU](https://github.com/YashJain14/SOPPU)**: Scalable One PEFT per User. (Paper accepted to [DAI 2024](http://www.adai.ai/dai/2024/index.html) Conference)
 - **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: Tech, vlogs, and higher education in Singapore. 
 
 ## Previous works
+- **[SOPPU](https://github.com/YashJain14/SOPPU)**: Scalable One PEFT per User. (Paper accepted to [DAI 2024](http://www.adai.ai/dai/2024/index.html) Conference)
 - **[KamaGPT](https://www.kamagpt.in/)**: Multilingual Chatbot for sex education (22k users in 3 months) (Backed by NTU)
 - **[StoryLine AI](https://www.storylineai.in/)**: Script-to-video Generator (Consistent audio narration with video) (Backed by NTU)
