@@ -8,6 +8,7 @@ I am **[Yash Jain](https://yashjain14.github.io/)**, an undergraduate student at
 - 4x Hackathon awards
 - Lead @ [Google DSC NTU](https://gdsc.community.dev/nanyang-technological-university/)
 - Chairperson @ [NTU Open Source Society](https://github.com/ntuoss)
+- VP @ [NTU CBC](https://www.linkedin.com/company/ntu-corporatebankingclub/about/)
 
 ## What I'm working on
 - **[OpenContext](https://github.com/YashJain14)**: Open deep research that searches the web and local files to generate reports and PowerPoint presentations.
