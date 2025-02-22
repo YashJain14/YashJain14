@@ -11,7 +11,7 @@ I am **[Yash Jain](https://yashjain14.github.io/)**, an undergraduate student at
 - VP @ [NTU CBC](https://www.linkedin.com/company/ntu-corporatebankingclub/about/)
 
 ## What I'm working on
-- **[OpenContext](https://github.com/YashJain14)**: Open deep research that searches the web and local files to generate reports and PowerPoint presentations.
+- **[OpenContext](https://github.com/YashJain14/OpenContext)**: Open deep research that searches the web and local files to generate reports and PowerPoint presentations.
 - **[Weaver](https://weaverai.in/)**: AI-powered production line for Textile Manufacturing. (Backed by [NTUitive](https://www.ntuitive.sg/))
 - **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: (570k+ views) Tech, vlogs, and higher education in Singapore. 
 
