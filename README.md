@@ -3,6 +3,7 @@
 
 - Undergrad (Y3) at [NTU, Singapore](https://www.ntu.edu.sg/).
 - Computer Science and Business [(Double Bachelors)](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-computer-science-and-business)
+- AI Research Intern @ [Mastercard](https://www.mastercard.com)
 - Intern @ [Seatrium](https://seatrium.com/)
 - Research Intern @ [MMLab (S-Lab, NTU)](https://www.mmlab-ntu.com) (Summers'24)
 - AI Intern @ [TUV SUD](https://www.tuvsud.com) (Summers'23)
@@ -15,7 +16,7 @@
 <!--- - **[Life](https://github.com/YashJain14/)**: Storing lifelogs in time base temporal knowledge graphs. (Aka My digital Brain) -->
 - **[OpenContext](https://github.com/YashJain14/OpenContext)**: Open deep research that searches the web and local files to generate reports and PowerPoint presentations.
 - **[Weaver AI](https://weaverai.in/)**: Generative AI for Fashion and Textiles (Backed by [NTUitive](https://www.ntuitive.sg/))
-- **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: (580k+ views) Tech, vlogs, and higher education in Singapore. 
+- **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: (600k+ views) Tech, vlogs, and higher education in Singapore. 
 
 ## Previous works
 - **[FactX](https://github.com/YashJain14/factx)**: CLIP encoder for Tweets - converts Image and Text Pair in tweets to vector embeddings
