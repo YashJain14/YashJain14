@@ -18,6 +18,7 @@
 - **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: (600k+ views) Tech, vlogs, and higher education in Singapore. 
 
 ## Previous works
+- **[Sliced Gemma](https://github.com/YashJain14/Gemma_TSA)**: TSA with Sliced Transformer Models for Domain Adaptation on Small Datasets
 - **[OpenContext](https://github.com/YashJain14/OpenContext)**: Open deep research that searches the web and local files to generate reports and PowerPoint presentations.
 - **[FactX](https://github.com/YashJain14/factx)**: CLIP encoder for Tweets - converts Image and Text Pair in tweets to vector embeddings
 - **[SOPPU](https://github.com/YashJain14/SOPPU)**: Scalable One PEFT per User. (Paper accepted to [DAI 2024](http://www.adai.ai/dai/2024/index.html) Conference)
