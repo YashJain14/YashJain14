@@ -1,7 +1,7 @@
 
 # HI! I am **[Yash Jain](https://yashjain14.github.io/)**
 
-- Undergrad (Y3) at [NTU, Singapore](https://www.ntu.edu.sg/).
+- Undergrad (FInal Year) at [NTU, Singapore](https://www.ntu.edu.sg/).
 - Computer Science and Business [(Double Bachelors)](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-computer-science-and-business)
 - AI Research @ [Mastercard](https://www.mastercard.com)
 - Full Stack & Tech Consultant @ [Seatrium](https://seatrium.com/)
