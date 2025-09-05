@@ -13,7 +13,7 @@
 - VP @ [NTU CBC](https://www.linkedin.com/company/ntu-corporatebankingclub/about/)
 
 ## What I'm working on
-<!--- - **[Life](https://github.com/YashJain14/)**: Storing lifelogs in time base temporal knowledge graphs. (Aka My digital Brain) -->
+- **[BaseGraph](https://github.com/YashJain14/)**: ASTs and AI 
 - **[Weaver AI](https://weaverai.in/)**: Generative AI for Fashion and Textiles (Backed by [NTUitive](https://www.ntuitive.sg/))
 - **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: (600k+ views) Tech, vlogs, and higher education in Singapore. 
 
