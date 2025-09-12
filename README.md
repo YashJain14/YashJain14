@@ -13,15 +13,16 @@
 - VP @ [NTU CBC](https://www.linkedin.com/company/ntu-corporatebankingclub/about/)
 
 ## What I'm working on
-- **[HOI with VLA/DiP Planner](https://github.com/YashJain14/)**: Physics-Based Humanoid-Object Interaction motion generation model 
+- **[HOI with VLA/DiP Planner](https://github.com/YashJain14/)**: Physics-Based Humanoid-Object Interaction motion generation model (Under Prof. Ziwei Liu)
 - **[BaseGraph](https://github.com/YashJain14/)**: Abstract Syntax Trees, Unit testing and DeepWiki
 - **[Weaver AI](https://weaverai.in/)**: Generative AI for Fashion and Textiles (Backed by [NTUitive](https://www.ntuitive.sg/))
 - **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: (600k+ views) Tech, vlogs, and higher education in Singapore. 
 
 ## Previous works
-- **[Sliced Gemma](https://github.com/YashJain14/Gemma_TSA)**: TSA with Sliced Transformer Models for Domain Adaptation on Small Datasets
-- **[OpenContext](https://github.com/YashJain14/OpenContext)**: Open deep research that searches the web and local files to generate reports and PowerPoint presentations.
-- **[FactX](https://github.com/YashJain14/factx)**: CLIP encoder for Tweets - converts Image and Text Pair in tweets to vector embeddings
 - **[SOPPU](https://github.com/YashJain14/SOPPU)**: Scalable One PEFT per User. (Paper accepted to [DAI 2024](http://www.adai.ai/dai/2024/index.html) Conference)
-- **[KamaGPT](https://www.kamagpt.in/)**: Multilingual Chatbot for sex education (22k users, 88k visits in a week) (Backed by NTU)
+- **[UI-Elements-Detection-Dataset](https://huggingface.co/datasets/YashJain/UI-Elements-Detection-Dataset)**: 10k+ Downloads (It was once trending on HuggingFace)
+- **[OpenContext](https://github.com/YashJain14/OpenContext)**: Open deep research that searches the web and local files to generate reports and PowerPoint presentations.
+- **[Sliced Gemma](https://github.com/YashJain14/Gemma_TSA)**: TSA with Sliced Transformer Models for Domain Adaptation on Small Datasets
+- **[FactX](https://github.com/YashJain14/factx)**: CLIP encoder for Tweets - converts Image and Text Pair in tweets to vector embeddings
+- **[KamaGPT](https://www.kamagpt.in/)**: IYKYK (22k users, 88k visits in a week) (Backed by NTU)
 - **[StoryLine AI](https://www.storylineai.in/)**: Script-to-video Generator (Consistent audio narration with video) (Backed by NTU)
