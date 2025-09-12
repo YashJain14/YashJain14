@@ -13,7 +13,7 @@
 - VP @ [NTU CBC](https://www.linkedin.com/company/ntu-corporatebankingclub/about/)
 
 ## What I'm working on
-- **[HOI with VLA/DiP Planner](https://github.com/YashJain14/)**: Physics-Based Humanoid-Object Interaction motion generation model (Under Prof. Ziwei Liu)
+- **[HOI with VLA/DiP Planner](https://github.com/YashJain14/)**: Physics-Based Humanoid-Object Interaction motion generation model (supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/))
 - **[BaseGraph](https://github.com/YashJain14/)**: Abstract Syntax Trees, Unit testing and DeepWiki
 - **[Weaver AI](https://weaverai.in/)**: Generative AI for Fashion and Textiles (Backed by [NTUitive](https://www.ntuitive.sg/))
 - **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: (600k+ views) Tech, vlogs, and higher education in Singapore. 
