@@ -4,7 +4,8 @@
 - Undergrad (Final Year) at [NTU, Singapore](https://www.ntu.edu.sg/).
 - Computer Science and Business [(Double Bachelors)](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-computer-science-and-business)
 - AI Research Intern @ [Mastercard](https://www.mastercard.com)
-- Full Stack & Tech Consultant @ [Seatrium](https://seatrium.com/)
+- Software Engineer Intern @ [CCEB](https://www.ntu.edu.sg/cceb)
+- Full Stack & Tech Consultant Intern @ [Seatrium](https://seatrium.com/)
 - AI Research Intern @ [MMLab (S-Lab, NTU)](https://www.mmlab-ntu.com) (Summers'24)
 - AI Intern @ [TUV SUD](https://www.tuvsud.com) (Summers'23)
 - 4x Hackathon awards
