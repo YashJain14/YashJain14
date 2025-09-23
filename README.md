@@ -5,10 +5,10 @@
 - Computer Science and Business [(Double Bachelors)](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-computer-science-and-business)
 - AI Research Intern @ [Mastercard](https://www.mastercard.com)
 - Software Engineer Intern @ [CCEB](https://www.ntu.edu.sg/cceb)
-- Full Stack & Tech Consultant Intern @ [Seatrium](https://seatrium.com/)
+- Tech Consultant @ [Seatrium](https://seatrium.com/)
 - AI Research Intern @ [MMLab (S-Lab, NTU)](https://www.mmlab-ntu.com) (Summers'24)
 - AI Intern @ [TUV SUD](https://www.tuvsud.com) (Summers'23)
-- 4x Hackathon awards
+- 5x Hackathon awards
 - Lead @ [Google DSC NTU](https://gdsc.community.dev/nanyang-technological-university/)
 - Chairperson @ [NTU Open Source Society](https://github.com/ntuoss)
 - VP @ [NTU CBC](https://www.linkedin.com/company/ntu-corporatebankingclub/about/)
