@@ -23,7 +23,7 @@
 - **[UI-Elements-Detection-Dataset](https://huggingface.co/datasets/YashJain/UI-Elements-Detection-Dataset)**: 10k+ Downloads (It was once trending on HuggingFace)
 - **[BaseGraph](https://github.com/YashJain14/)**: Abstract Syntax Trees, Unit testing and DeepWiki
 - **[OpenContext](https://github.com/YashJain14/OpenContext)**: Open deep research that searches the web and local files to generate reports and PowerPoint presentations.
-- **[Prediction Markets](https://prediction-markets-bt.vercel.app/)**: Create, trade, and resolve prediction markets on blockchain.
+- **[Prediction Markets](https://prediction-markets-bt.vercel.app/)**: Create, trade, and resolve prediction markets on blockchain with ETH, USDC, or any ERC20 token.
 - **[RizzedIn](https://rizzedin.com)**: Dating platform for locked-in tech bros (Linkedin Profile Matching and AI clones)
 - **[Knit-Viz](https://github.com/YashJain14/Knit_Dependency_Injection_visualiser)**: Dependency injection analyzer for TikTok's Knit framework with CLI, web, and IntelliJ tools.
 - **[Sliced Gemma](https://github.com/YashJain14/Gemma_TSA)**: TSA with Sliced Transformer Models for Domain Adaptation on Small Datasets
