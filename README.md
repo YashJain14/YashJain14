@@ -20,7 +20,6 @@
 
 ## Previous works
 - **[SOPPU](https://github.com/YashJain14/SOPPU)**: Scalable One PEFT per User. (Paper accepted to [DAI 2024](http://www.adai.ai/dai/2024/index.html) Conference)
-- **[UI-Elements-Detection-Dataset](https://huggingface.co/datasets/YashJain/UI-Elements-Detection-Dataset)**: 12k+ Downloads (It was once trending on HuggingFace)
 - **[BaseGraph](https://github.com/YashJain14/)**: Abstract Syntax Trees, Unit testing and DeepWiki
 - **[OpenContext](https://github.com/YashJain14/OpenContext)**: Open deep research that searches the web and local files to generate reports and PowerPoint presentations.
 - **[Prediction Markets](https://prediction-markets-bt.vercel.app/)**: Create, trade, and resolve prediction markets on blockchain with ETH, USDC, or any ERC20 token.
@@ -30,3 +29,7 @@
 - **[FactX](https://github.com/YashJain14/factx)**: CLIP encoder for Tweets - converts Image and Text Pair in tweets to vector embeddings
 - **[KamaGPT](https://www.kamagpt.in/)**: IYKYK (22k users, 88k visits in a week) (Backed by NTU)
 - **[StoryLine AI](https://www.storylineai.in/)**: Script-to-video Generator (Consistent audio narration with video) (Backed by NTU)
+
+## Open Source
+- **[UI-Elements-Detection-Dataset](https://huggingface.co/datasets/YashJain/UI-Elements-Detection-Dataset)**: 12k+ Downloads (It was once trending on HuggingFace)
+- **[Evals for Visual Generation](https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation)**: This repository collects methods for evaluating visual generation.
