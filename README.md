@@ -14,9 +14,10 @@
 - VP @ [NTU CBC](https://www.linkedin.com/company/ntu-corporatebankingclub/about/)
 
 ## What I'm working on
-- **[HOI with VLA/DiP Planner](https://github.com/YashJain14/)**: Physics-Based Humanoid-Object Interaction motion generation model (supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/))
+- **[JIT UI](https://jitui.ai)**: Just In Time UIs for every app, connecting humans and agents to internet of agents. 
+- **[Physics Based Multi-object HOI](https://github.com/YashJain14/)**: Physics-Based Humanoid-Object Interaction model (supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/))
 - **[Weaver AI](https://weaverai.in/)**: Generative AI for Fashion and Textiles (Backed by [NTUitive](https://www.ntuitive.sg/))
-- **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: (600k+ views) Tech, vlogs, and higher education in Singapore. 
+- **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: (700k+ views) Tech, vlogs, and higher education in Singapore. 
 
 ## Previous works
 - **[SOPPU](https://github.com/YashJain14/SOPPU)**: Scalable One PEFT per User. (Paper accepted to [DAI 2024](http://www.adai.ai/dai/2024/index.html) Conference)
@@ -31,5 +32,6 @@
 - **[StoryLine AI](https://www.storylineai.in/)**: Script-to-video Generator (Consistent audio narration with video) (Backed by NTU)
 
 ## Open Source
-- **[UI-Elements-Detection-Dataset](https://huggingface.co/datasets/YashJain/UI-Elements-Detection-Dataset)**: 12k+ Downloads (It was once trending on HuggingFace)
+- **[UI-Elements-Detection-Dataset](https://huggingface.co/datasets/YashJain/UI-Elements-Detection-Dataset)**: 19k+ Downloads (It was once trending on HuggingFace)
+- **[Multi-Object HOI](https://huggingface.co/datasets/YashJain/Multi-Object-HOI)**: Multi Object Human Object Interaction Dataset. Built on top of [InterAct](https://github.com/wzyabcas/InterAct)
 - **[Evals for Visual Generation](https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation)**: This repository collects methods for evaluating visual generation.
