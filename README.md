@@ -21,11 +21,11 @@
 
 ## Previous works
 - **[SOPPU](https://github.com/YashJain14/SOPPU)**: Scalable One PEFT per User. (Paper accepted to [DAI 2024](http://www.adai.ai/dai/2024/index.html) Conference)
-- **[BaseGraph](https://github.com/YashJain14/)**: Abstract Syntax Trees, Unit testing and DeepWiki
-- **[OpenContext](https://github.com/YashJain14/OpenContext)**: Open deep research that searches the web and local files to generate reports and PowerPoint presentations.
 - **[Prediction Markets](https://prediction-markets-bt.vercel.app/)**: Create, trade, and resolve prediction markets on blockchain with ETH, USDC, or any ERC20 token.
 - **[RizzedIn](https://rizzedin.com)**: Dating platform for locked-in tech bros (Linkedin Profile Matching and AI clones)
 - **[Knit-Viz](https://github.com/YashJain14/Knit_Dependency_Injection_visualiser)**: Dependency injection analyzer for TikTok's Knit framework with CLI, web, and IntelliJ tools.
+- **[BaseGraph](https://github.com/YashJain14/)**: Abstract Syntax Trees, Unit testing and DeepWiki
+- **[OpenContext](https://github.com/YashJain14/OpenContext)**: Open deep research that searches the web and local files to generate reports and PowerPoint presentations.
 - **[Sliced Gemma](https://github.com/YashJain14/Gemma_TSA)**: TSA with Sliced Transformer Models for Domain Adaptation on Small Datasets
 - **[FactX](https://github.com/YashJain14/factx)**: CLIP encoder for Tweets - converts Image and Text Pair in tweets to vector embeddings
 - **[KamaGPT](https://www.kamagpt.in/)**: IYKYK (22k users, 88k visits in a week) (Backed by NTU)
