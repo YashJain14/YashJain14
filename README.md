@@ -33,6 +33,6 @@
 - **[Repo2Text](https://pypi.org/project/repo2text/)**: (4k+ Downloads) Python pip package to convert github repos to text for LLMs. 
 
 ## Open Source
-- **[UI-Elements-Detection-Dataset](https://huggingface.co/datasets/YashJain/UI-Elements-Detection-Dataset)**: 19k+ Downloads (It was once trending on HuggingFace)
-- **[Multi-Object HOI](https://huggingface.co/datasets/YashJain/Multi-Object-HOI)**: Multi Object Human Object Interaction Dataset. Built on top of [InterAct](https://github.com/wzyabcas/InterAct)
-- **[Evals for Visual Generation](https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation)**: This repository collects methods for evaluating visual generation.
+- [20k+ Downloads] **[UI-Elements-Detection-Dataset](https://huggingface.co/datasets/YashJain/UI-Elements-Detection-Dataset)**: UI Element Detection for VLMs.
+- [10k+ Downloads] **[Multi-Object HOI](https://huggingface.co/datasets/YashJain/Multi-Object-HOI)**: Multi Object Human Object Interaction Dataset. Built on top of [InterAct](https://github.com/wzyabcas/InterAct)
+- [400+ Stars] **[Evals for Visual Generation](https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation)**: This repository collects methods for evaluating visual generation.
