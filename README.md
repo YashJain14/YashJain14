@@ -21,7 +21,7 @@
 
 ## Open Source
 - [20k+ Downloads] **[UI-Elements-Detection-Dataset](https://huggingface.co/datasets/YashJain/UI-Elements-Detection-Dataset)**: UI Element Detection for VLMs.
-- [10k+ Downloads] **[Multi-Object HOI](https://huggingface.co/datasets/YashJain/Multi-Object-HOI)**: Multi Object Human Object Interaction Dataset. Built on top of [InterAct](https://github.com/wzyabcas/InterAct)
+- [20k+ Downloads] **[Multi-Object HOI](https://huggingface.co/datasets/YashJain/Multi-Object-HOI)**: Multi Object Human Object Interaction Dataset. Built on top of [InterAct](https://github.com/wzyabcas/InterAct)
 - [400+ Stars] **[Evals for Visual Generation](https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation)**: This repository collects methods for evaluating visual generation.
 
 ## Previous works
