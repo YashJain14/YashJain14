@@ -15,6 +15,7 @@
 
 ## What I'm working on
 - **[JIT UI](https://jitui.ai)**: Just In Time UIs for every app, connecting humans and agents to internet of agents. 
+- **[Agent Maps](https://agentmaps.dev/)**: Google Maps for AI agents. Pre-mapped website actions so your agents execute reliably
 - **[Physics Based Multi-object HOI](https://github.com/YashJain14/)**: Physics-Based Humanoid-Object Interaction model (supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/))
 - **[Weaver AI](https://weaverai.in/)**: Generative AI for Fashion and Textiles (Backed by [NTUitive](https://www.ntuitive.sg/))
 - **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: (700k+ views) Tech, vlogs, and higher education in Singapore.
