@@ -15,7 +15,7 @@
 
 ## What I'm working on
 - **[JIT UI](https://jitui.ai)**: Just In Time UIs for every app, connecting humans and agents to internet of agents. 
-- **[Agent Maps](https://agentmaps.dev/)**: Google Maps for AI agents. Pre-mapped website actions so your agents execute reliably
+- **[TorchScope](https://github.com/YashJain14/)**: GPU Profiling Toolkit which is easy to understand.
 - **[Weaver AI](https://weaverai.in/)**: Generative AI for Fashion and Textiles (Backed by [NTUitive](https://www.ntuitive.sg/))
 - **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: (700k+ views) Tech, vlogs, and higher education in Singapore.
 
@@ -26,6 +26,7 @@
 
 ## Previous works
 - **[Physics Based Multi-object HOI](https://github.com/YashJain14/)**: Physics-Based Humanoid-Object Interaction model (supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/))
+- **[Agent Maps](https://agentmaps.dev/)**: Google Maps for AI agents. Pre-mapped website actions so your agents execute reliably
 - **[SOPPU](https://github.com/YashJain14/SOPPU)**: Scalable One PEFT per User. (Paper accepted to [DAI 2024](http://www.adai.ai/dai/2024/index.html) Conference)
 - **[Prediction Markets](https://prediction-markets-bt.vercel.app/)**: Create, trade, and resolve prediction markets on blockchain with ETH, USDC, or any ERC20 token.
 - **[RizzedIn](https://rizzedin.com)**: Dating platform for locked-in tech bros (Linkedin Profile Matching and AI clones)
