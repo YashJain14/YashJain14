@@ -15,7 +15,7 @@
 
 ## What I'm working on
 - **[JIT UI](https://jitui.ai)**: Just In Time UIs for every app, connecting humans and agents to internet of agents. 
-- **[TorchScope](https://github.com/YashJain14/)**: GPU Profiling Toolkit which is easy to understand.
+- **[TorchScope](https://github.com/YashJain14/torchscope)**: GPU Profiling Toolkit which is easy to understand.
 - **[Weaver AI](https://weaverai.in/)**: Generative AI for Fashion and Textiles (Backed by [NTUitive](https://www.ntuitive.sg/))
 - **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: (700k+ views) Tech, vlogs, and higher education in Singapore.
 
