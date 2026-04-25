@@ -36,7 +36,7 @@
 - **[OpenContext](https://github.com/YashJain14/OpenContext)**: Open deep research that searches the web and local files to generate reports and PowerPoint presentations.
 - **[Sliced Gemma](https://github.com/YashJain14/Gemma_TSA)**: TSA with Sliced Transformer Models for Domain Adaptation on Small Datasets
 - **[KamaGPT](https://www.kamagpt.in/)**: IYKYK (22k users, 88k visits in a week) (Backed by NTU)
-- **[StoryLine AI](https://www.storylineai.in/)**: Script-to-video Generator (Consistent audio narration with video) (Backed by NTU)
+- **[StoryLine AI](https://storylineai.vercel.app)**: Script-to-video Generator (Consistent audio narration with video) (Backed by NTU)
 - **[Repo2Text](https://pypi.org/project/repo2text/)**: (4k+ Downloads) Python pip package to convert github repos to text for LLMs. 
 
 
