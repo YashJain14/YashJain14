@@ -24,11 +24,14 @@
 - [20k+ Downloads] **[Multi-Object HOI](https://huggingface.co/datasets/YashJain/Multi-Object-HOI)**: Multi Object Human Object Interaction Dataset. Built on top of [InterAct](https://github.com/wzyabcas/InterAct)
 - [400+ Stars] **[Evals for Visual Generation](https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation)**: This repository collects methods for evaluating visual generation.
 
+## Papers
+- **[Multi-object HOI](https://hdl.handle.net/10356/214222)**: Multi-Object Humanoid-Object Interaction model (supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/))
+- **[SOPPU](https://www.adai.ai/dai/2024/dai_papers/DAI2024_paper_21.pdf)**: Scalable One PEFT per User. (Paper accepted to [DAI 2024](https://www.adai.ai/dai/2024/dai_papers/DAI2024_paper_21.pdf) Conference)
+
 ## Previous works
-- **[Physics Based Multi-object HOI](https://github.com/YashJain14/)**: Physics-Based Humanoid-Object Interaction model (supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/))
+
 - **[Video Inference Benchmarks](https://yashjain14.github.io/blogs/pynvvideocodec-vs-dali-vs-opencv-benchmark.html)**: Benchmarking Modern GPU Video Inference Pipelines - PyNvVc vs Dali vs OpenCV
 - **[Agent Maps](https://agentmaps.dev/)**: Google Maps for AI agents. Pre-mapped website actions so your agents execute reliably
-- **[SOPPU](https://www.adai.ai/dai/2024/dai_papers/DAI2024_paper_21.pdf)**: Scalable One PEFT per User. (Paper accepted to [DAI 2024](https://www.adai.ai/dai/2024/dai_papers/DAI2024_paper_21.pdf) Conference)
 - **[Prediction Markets](https://prediction-markets-bt.vercel.app/)**: Create, trade, and resolve prediction markets on blockchain with ETH, USDC, or any ERC20 token.
 - **[RizzedIn](https://rizzedin.com)**: Dating platform for locked-in tech bros (Linkedin Profile Matching and AI clones)
 - **[Knit-Viz](https://github.com/YashJain14/Knit_Dependency_Injection_visualiser)**: Dependency injection analyzer for TikTok's Knit framework with CLI, web, and IntelliJ tools.
